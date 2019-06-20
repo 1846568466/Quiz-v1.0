@@ -1,0 +1,42 @@
+body {
+    background-image: url("https://yt3.ggpht.com/a-/ACSszfHqqaGuOVJo8v-fybrbQeQagId1znoxw51JnQ=s900-mo-c-c0xffffffff-rj-k-no")
+}
+* {
+    font-family: fantasy;
+}
+h1 {
+    font-size: 100px;
+}
+.start {
+    font-size:30px;
+    font-weight: bold;
+}
+.button {
+    position: relative;
+    top: 0;
+    margin-top: 0;
+    margin-bottom: 10px;
+    box-shadow: 0 10px 0 0 #39843d;
+    display: block;
+    background: #4caf50;
+    color: white;
+    padding: 0.5em 1em;
+    border: 0;
+    cursor: pointer;
+    opacity: 0.9;
+    border-radius: 15px;
+    text-decoration: none;
+    width: 100px;
+}
+.button:active {
+    box-shadow: none;
+    top: 10px;
+    margin-bottom: 0;
+}
+.button:hover {
+    opacity: 1;
+}
+.button:active,
+.button:focus {
+    outline: 0;
+}
