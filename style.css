@@ -60,4 +60,13 @@ div {
     border: 5px solid #39843d;
     color: white;
     text-decoration: none;
+    cursor: default;
+}
+#green {
+    color: #4caf50;
+}
+.green {
+    text-decoration: none;
+    color: #4caf50;
+    cursor: default;
 }
