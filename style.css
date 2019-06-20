@@ -54,10 +54,14 @@ div {
     text-decoration: none;
 }
 .fake {
+    width: 70px;
+    height: 70px;
     background-color: #4caf50;
     border-radius: 100%;
     text-align: center;
     border: 5px solid #39843d;
+}
+#fake {
     color: white;
     text-decoration: none;
     cursor: default;
