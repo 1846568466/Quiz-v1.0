@@ -74,3 +74,8 @@ div {
     color: #4caf50;
     cursor: default;
 }
+.invisnum {
+    color: #f0f0f0;
+    text-decoration: none;
+    cursor: default;
+}
