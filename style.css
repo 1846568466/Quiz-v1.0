@@ -79,3 +79,15 @@ div {
     text-decoration: none;
     cursor: default;
 }
+.invisnum:hover {
+    color: #4caf50;
+}
+.hidden {
+    font-size: 250px;
+    text-decoration: none;
+    margin-left: 1000px;
+    color: white;
+}
+.hidden:hover {
+    color: #4caf50;
+}
